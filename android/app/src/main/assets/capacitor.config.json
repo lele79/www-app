@@ -10,5 +10,9 @@
       "launchShowDuration": 0
     }
   },
-  "cordova": {}
+  "cordova": {},
+  "server": {
+    "url": "https://platform.sardcoin.eu/prealpha/#/showcase",
+    "cleartext": true
+  }
 }
