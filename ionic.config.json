@@ -1,0 +1,7 @@
+{
+  "name": "sardcoin-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
